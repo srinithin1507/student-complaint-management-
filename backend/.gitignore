@@ -1,0 +1,13 @@
+# Dependency directories
+node_modules/
+
+# Logs
+*.log
+
+# SQLite databases and temp files
+*.db
+*.db-shm
+*.db-wal
+
+# Environments/Secrets
+.env
